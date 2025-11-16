@@ -8,6 +8,15 @@
   <h1>Password Strength Checker</h1>
   <p>Modern <strong>Password Health Checker</strong> built using HTML, CSS, and JavaScript.</p>
 
+  
+  <h2>✨ Features</h2>
+  <ul>
+    <li>Real-time password strength evaluation</li>
+    <li>Strength categories: Weak, Medium, Strong, Very Strong</li>
+    <li>Animated progress bar</li>
+    <li>Checklist showing rule satisfaction</li>
+    <li>Show/Hide password eye toggle</li>
+  </ul>
   <h2>🚀 Live Demo</h2>
   <p>
     <a href="http://dineshsinghdhami.com.np/password-strength-checker" target="_blank">
@@ -33,15 +42,7 @@ project-folder/
     <li>CSS</li>
     <li>JavaScript</li>
   </ul>
-  
-  <h2>✨ Features</h2>
-  <ul>
-    <li>Real-time password strength evaluation</li>
-    <li>Strength categories: Weak, Medium, Strong, Very Strong</li>
-    <li>Animated progress bar</li>
-    <li>Checklist showing rule satisfaction</li>
-    <li>Show/Hide password eye toggle</li>
-  </ul>
+
 
   <h2>📌 Password Requirements</h2>
   <ul>
