@@ -89,8 +89,8 @@ password-strength-checker/
 **Dinesh Singh Dhami**  
 📧 Email: dineshdhamidn@gmail.com  
 🌐 Portfolio: https://www.dineshsinghdhami.com.np  
-💼 LinkedIn: https://linkedin.com/in/thecodingdhami  
-🐙 GitHub: https://github.com/thecodingdhami  
+💼 LinkedIn: https://linkedin.com/in/dineshsinghdhami1  
+🐙 GitHub: https://github.com/dineshsinghdhami  
 
 ---
 
