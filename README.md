@@ -1,72 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 40px;">
-  <h1>Password Strength Checker</h1>
-  <p>Modern <strong>Password Health Checker</strong> built using HTML, CSS, and JavaScript.</p>
+# 🔐 Password Strength Checker
 
-  
-  <h2>✨ Features</h2>
-  <ul>
-    <li>Real-time password strength evaluation</li>
-    <li>Strength categories: Weak, Medium, Strong, Very Strong</li>
-    <li>Animated progress bar</li>
-    <li>Checklist showing rule satisfaction</li>
-    <li>Show/Hide password eye toggle</li>
-  </ul>
-  <h2>🚀 Live Demo</h2>
-  <p>
-    <a href="http://dineshsinghdhami.com.np/password-strength-checker" target="_blank">
-      http://dineshsinghdhami.com.np/password-strength-checker
-    </a>
-  </p>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-  <h2>🖼️ Screenshot</h2>
- <p><img src="password-strength-checker.png" width="500" /></p>
+A modern **Password Health Checker Web App** created with **HTML**, **CSS**, and **JavaScript**.
 
-  <h2>📁 Project Structure</h2>
-  <pre>
-project-folder/
+---
+
+## 🚀 Live Demo
+
+🔗 **[View Live Project](https://dineshsinghdhami.com.np/password-strength-checker/)**
+
+---
+
+## ✨ Features
+
+✅ Real-time password strength analysis  
+🔍 Checks lowercase, uppercase, numbers, symbols, and length  
+📊 Dynamic strength meter (Weak → Very Strong)  
+✔️ Live requirement checklist with tick & cross icons  
+👁️ Show/Hide password toggle  
+⚡ Smooth animations & clean UI
+
+---
+
+## 🧠 How to Use
+
+1. Visit the live demo:  
+   👉 https://dineshsinghdhami.com.np/password-strength-checker/
+
+2. Type any password into the input field.  
+3. Watch the **strength meter** and **checklist** update instantly.  
+4. Improve your password until it becomes **Very Strong** ✔️
+
+---
+
+## 🖼️ Screenshot
+
+<img src="password-strength-checker.png" width="500" />
+
+---
+
+## 📁 Project Structure
+
+```
+password-strength-checker/
 │
-├── index.html        
-├── readme.html       
-└── screenshot.png/         
-  </pre>
+├── index.html                   
+├── readme.md                      
+├── password-strength-checker.png  
+└── assets/                       
+```
 
-  <h2>🛠 Tech Stack</h2>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-  </ul>
+---
+
+## 📜 Password Requirements Checked
+
+- Minimum **8 characters**
+- At least **one lowercase letter**
+- At least **one uppercase letter**
+- At least **one number**
+- At least **one special character**
+
+---
 
 
-  <h2>📌 Password Requirements</h2>
-  <ul>
-    <li>Minimum 8 characters</li>
-    <li>At least one lowercase letter</li>
-    <li>At least one uppercase letter</li>
-    <li>At least one number</li>
-    <li>At least one special symbol</li>
-  </ul>
+## 🛠️ Built With
 
-  <h2>⚙️ How It Works</h2>
-  <p>JavaScript listens to input events and:</p>
-  <ul>
-    <li>Validates using regex-based rules</li>
-    <li>Updates progress bar width + color</li>
-    <li>Shows check / cross icons for each requirement</li>
-    <li>Displays strength text dynamically</li>
-  </ul>
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-  <h2>© Copyright</h2>
-  <p>© 2025 Dinesh Singh Dhami. All rights reserved.</p>
+---
 
-  <h2>👤 Owner</h2>
-  <p><strong>Dinesh Singh Dhami</strong><br>Bachelor in Computer Engineering, NAST College</p>
+## ⚙️ How It Works
 
-</body>
-</html>
+- JavaScript captures input events  
+- Regex patterns validate each rule  
+- A score is calculated out of 100  
+- Strength bar updates color + width  
+- Checklist switches between ✔️ / ❌ based on rules  
+
+---
+
+## 👨‍💻 Author
+
+**Dinesh Singh Dhami**  
+📧 Email: dineshdhamidn@gmail.com  
+🌐 Portfolio: https://www.dineshsinghdhami.com.np  
+💼 LinkedIn: https://linkedin.com/in/thecodingdhami  
+🐙 GitHub: https://github.com/thecodingdhami  
+
+---
+
+## ©️ Copyright
+
+- All rights reserved © 2025 **Dinesh Singh Dhami**  
+- Free for personal & educational use  
+- Contact for commercial usage or redistribution  
+
+---
